@@ -1,5 +1,3 @@
-# testrepo
+# IBM Data Science Professional Certificate - Capstone Project
 
-## Editing the file
-
-It's a markdown file in this repository
+The files contained here are Jupyter Notebooks and Python scripts rendered in the Capstone project.
